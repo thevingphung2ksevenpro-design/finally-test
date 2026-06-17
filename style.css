@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đại Học FPT - Thư Viện Ảnh</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <a class="skip-link" href="#main-content">Skip to Main Content</a>
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">FPT University</div>
+            <ul class="nav-links">
+                <li><a href="index.html">Trang Chủ</a></li>
+                <li><a href="gallery.html" class="active">Hình Ảnh</a></li>
+                <li><a href="about.html">Giới Thiệu</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="main-content">
+        <section class="hero-section">
+            <h2>Hình Ảnh Hoạt Động Sinh Viên</h2>
+            <p>Khám phá môi trường học tập, các câu lạc bộ công nghệ và hoạt động phong phú tại FPTU.</p>
+        </section>
+
+        <section class="flex-container">
+            <img src="https://kenh14cdn.com/thumb_w/600/000522cca9/2015/08/31/DSC_9907-d24d6.jpg" alt="Campus Hà Nội">
+            <img src="https://cdn-lab.fpt.edu.vn/innovationlab/media/2026/04/P.Zo-9862-scaled-1.jpg" alt="Campus Hồ Chí Minh">
+            <img src="https://vcdn1-vnexpress.vnecdn.net/2023/08/14/Image-ExtractWord-5-Out-3190-1692013500.png?w=680&h=0&q=100&dpr=2&fit=crop&s=9YiabPSBvZPPmxiGsR07fw" alt="Campus Quy Nhơn">
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 - Dự án giới thiệu Đại học FPT - Sinh viên Vinh</p>
+    </footer>
+
+</body>
+</html>
